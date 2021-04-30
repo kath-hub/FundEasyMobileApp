@@ -3,7 +3,7 @@ Background: The project was submitted to Avenue Business Case Competition 2020 a
 
 
 
-<h3>UI of the risk assement page and portfolio recommendation page </h3>
+<h3>UI of the risk assement page and the portfolio recommendation page </h3>
 <p float="left">
  
  <img src="https://github.com/kath-hub/FundEasyMobileApp/blob/main/page1.jpg" width="250" >
@@ -11,7 +11,8 @@ Background: The project was submitted to Avenue Business Case Competition 2020 a
  <img src="https://github.com/kath-hub/FundEasyMobileApp/blob/main/page2.jpg" width="250" >
 </p>
 
- 
+</br>
+<h3>UI of the trending post page and the forum page </h3>
 <p float="left">
  
  <img src="https://github.com/kath-hub/FundEasyMobileApp/blob/main/page3.jpg" width="250" >
